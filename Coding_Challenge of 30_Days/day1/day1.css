@@ -1,0 +1,24 @@
+body{
+    justify-content:center;
+    text-align:center;
+    align-items:center;
+  }
+  .main{
+    position:relative;
+    top:320px
+  }
+  .main div{
+    font-size:30px;
+    display:inline;
+    padding:20px 10px;
+    padding-left:40px;
+    padding-right:30px;
+  }
+  div:hover{
+     background: #03e9f4;
+    color: #fff;
+    box-shadow: 0 15px 5px #03e9f4, 0 20px 25px #03e9f4, 0 25px 50px #03e9f4, 0 40px 200px #03e9f4;
+    display:inline;
+    border:2px solid none;
+    border-radius:25px;
+  }
